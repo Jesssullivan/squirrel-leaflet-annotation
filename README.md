@@ -1,6 +1,4 @@
-## Squirrel!
-
-#### *leaflet audio annotator for the squirrels & munks*
+## *leaflet audio annotator for the squirrels & munks*
 
 1.  *setup:*
 ```
