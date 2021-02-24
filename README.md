@@ -1,8 +1,14 @@
 ## *leaflet audio annotator for the squirrels & munks*
 
 
-# *archived* [visit squirrel & munk audio annotator](https://ai.columbari.us/annotator/audio)
-# source zinged [into CI-EC2 branch](https://github.com/Jesssullivan/tmpUI/tree/CI-EC2) @ [tmpUI](https://github.com/Jesssullivan/tmpUI) 
+
+- - - 
+
+#### *archived* [visit squirrel & munk audio annotator](https://ai.columbari.us/annotator/audio)
+#### source zinged [into CI-EC2 branch](https://github.com/Jesssullivan/tmpUI/tree/CI-EC2) @ [tmpUI](https://github.com/Jesssullivan/tmpUI) 
+
+
+- - - 
 
 
 1.  *setup:*
